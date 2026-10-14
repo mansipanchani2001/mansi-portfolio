@@ -44,7 +44,7 @@ nav a.btn:hover{color:#fff}
 
 .hero-photo{position:relative;width:min(340px,80vw);aspect-ratio:1;margin:0 auto}
 .hero-photo .ring{position:absolute;inset:0;border:14px solid var(--primary);border-radius:50%;opacity:.9}
-.hero-photo img,.photo-fallback{position:absolute;inset:26px;width:calc(100% - 52px);height:calc(100% - 52px);border-radius:50%;object-fit:cover;object-position:50% 78%;background:var(--card)}
+.hero-photo img,.photo-fallback{position:absolute;inset:26px;width:calc(100% - 52px);height:calc(100% - 52px);border-radius:50%;object-fit:cover;object-position:50% 8%;background:var(--card)}
 .photo-fallback{display:none;align-items:center;justify-content:center;font-size:3.5rem;font-weight:700;color:var(--primary)}
 
 .title{font-size:1.7rem;margin-bottom:28px}
